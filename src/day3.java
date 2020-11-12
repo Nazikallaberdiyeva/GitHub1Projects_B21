@@ -8,6 +8,6 @@ public class day3 {
 // final work is done
 //kjklml;l
 // kslkl;l
-
+//idokodkdo
     }
 }
